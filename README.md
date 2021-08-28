@@ -1,3 +1,5 @@
+This is my forked version that allows a `[]` to be a target for matrix and vector operations.
+
 glMatrix
 =======================
 [![NPM Version](https://img.shields.io/npm/v/gl-matrix.svg)](https://www.npmjs.com/package/gl-matrix)
